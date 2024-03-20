@@ -8,7 +8,7 @@ This C++ program reads data from a CSV file, calculates the average of the last 
 
 ## Usage
 
-1. Make sure you have a valid CSV file named `data.csv` in the same directory as the executable or provide the correct path to the CSV file when running the program. The CSV file should contain numerical values representing the stock data, with each row having one data point (e.g., date, open, high, low, close, volume, etc.).
+1. Make sure you have a valid CSV file named `data.csv` in the same directory as the executable or provide the correct path to the CSV file when running the program. The CSV file should contain numerical values representing the stock data, with each row having one data point (e.g., date, open, high, low, close, volume, etc.) .
 
 2. Compile the C++ program using your preferred C++ compiler:
 
